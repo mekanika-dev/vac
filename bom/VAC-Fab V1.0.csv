@@ -1,0 +1,71 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01421,Vacuum Table - Fab,1.00,,,True
+2,M01346,VAC-Fab - B - Plenum Boards,1.00,M01343,VAC-Fab - BDE - Basic Setup Pallet,True
+3,M01353,VAC-Fab - Plenum PVC Board - Front,1.00,M01346,VAC-Fab - B - Plenum Boards,False
+3,M01354,VAC-Fab - Plenum PVC Board - Mid,2.00,M01346,VAC-Fab - B - Plenum Boards,False
+3,M01355,VAC-Fab - Plenum PVC Board - Back,1.00,M01346,VAC-Fab - B - Plenum Boards,False
+3,M01376,"Grip-Lock Mat 1000 x 500 x 2mm, Ready-to-use",1.00,M01346,VAC-Fab - B - Plenum Boards,True
+4,M01332,"Black Box Grip-Lock Mat 2mm, 5′ x 10′ (152 x 304 cm)",0.11,M01376,"Grip-Lock Mat 1000 x 500 x 2mm, Ready-to-use",False
+2,M01349,VAC-Fab - E - Hardware Box,1.00,M01343,VAC-Fab - BDE - Basic Setup Pallet,True
+3,M01351,VAC-Fab - Rubber Cord Bag (4 x 5m),1.00,M01349,VAC-Fab - E - Hardware Box,True
+4,M01325,Neoprene cord 6mm [m],18.00,M01351,VAC-Fab - Rubber Cord Bag (4 x 5m),False
+4,M00513,"Face milling end mill 25mm, shank 8mm",1.00,M01351,VAC-Fab - Rubber Cord Bag (4 x 5m),False
+3,M01284,VAC-Fab - DIN912 Black Screw Bag M6x20,1.00,M01349,VAC-Fab - E - Hardware Box,True
+4,M00451,DIN912 M6x20 Black screw,60.00,M01284,VAC-Fab - DIN912 Black Screw Bag M6x20,False
+3,M01335,VAC-Fab - DIN912 Black Screw Bag M6x12,1.00,M01349,VAC-Fab - E - Hardware Box,True
+4,M01718,DIN912 M6x12 Black screw,4.00,M01335,VAC-Fab - DIN912 Black Screw Bag M6x12,False
+3,M01326,VAC-Fab - Sliding Nut Bag M6,1.00,M01349,VAC-Fab - E - Hardware Box,True
+4,M00556,I-Type Sliding Nut M6,64.00,M01326,VAC-Fab - Sliding Nut Bag M6,False
+3,M01321,VAC-Fab - Threaded Insert Bag M6,1.00,M01349,VAC-Fab - E - Hardware Box,True
+4,M01273,Threaded Insert Flanged M6,32.00,M01321,VAC-Fab - Threaded Insert Bag M6,False
+3,M01279,VAC-Fab - ISO 7380 Black Screw Bag M6x16,1.00,M01349,VAC-Fab - E - Hardware Box,True
+4,M01280,ISO 7380 M6x16 Black Screw,32.00,M01279,VAC-Fab - ISO 7380 Black Screw Bag M6x16,False
+3,M01352,VAC-Fab - Pipe Clamping Bag,1.00,M01349,VAC-Fab - E - Hardware Box,True
+4,M01701,DIN912 M5x30 Black screw,2.00,M01352,VAC-Fab - Pipe Clamping Bag,False
+4,M00632,Lock Nut DIN985 M5,2.00,M01352,VAC-Fab - Pipe Clamping Bag,False
+4,M00424,DIN9021 Washer M5x15,2.00,M01352,VAC-Fab - Pipe Clamping Bag,False
+4,M01339,VAC-Fab - Pipe Clamp 90mm,2.00,M01352,VAC-Fab - Pipe Clamping Bag,False
+4,M00278,CNC Fab - Steel Parts - Cable chain holder,2.00,M01352,VAC-Fab - Pipe Clamping Bag,False
+2,M01660,VAC-Fab - D - Piping Box,1.00,M01343,VAC-Fab - BDE - Basic Setup Pallet,True
+3,M01348,VAC-Fab - Pipes,1.00,M01660,VAC-Fab - D - Piping Box,True
+4,M01386,Pipe PP - diam.50 L3000,3.00,M01348,VAC-Fab - Pipes,False
+4,M01648,Tuyau PP 50mm - 80mm,8.00,M01348,VAC-Fab - Pipes,False
+4,M01649,Tuyau PP 50mm - 90mm,8.00,M01348,VAC-Fab - Pipes,False
+4,M01650,Tuyau PP 50mm - 100mm,1.00,M01348,VAC-Fab - Pipes,False
+4,M01651,Tuyau PP 50mm - 110mm,1.00,M01348,VAC-Fab - Pipes,False
+4,M01652,Tuyau PP 50mm - 220mm,2.00,M01348,VAC-Fab - Pipes,False
+4,M01653,Tuyau PP 50mm - 305mm,2.00,M01348,VAC-Fab - Pipes,False
+4,M01654,Tuyau PP 50mm - 325mm,2.00,M01348,VAC-Fab - Pipes,False
+4,M01655,Tuyau PP 50mm - 500mm,1.00,M01348,VAC-Fab - Pipes,False
+4,M01656,Tuyau PP 50mm - 590mm,1.00,M01348,VAC-Fab - Pipes,False
+4,M01657,Tuyau PP 50mm - 680mm,2.00,M01348,VAC-Fab - Pipes,False
+4,M01658,Tuyau PP 50mm - 970mm,1.00,M01348,VAC-Fab - Pipes,False
+4,M01659,Tuyau PP 50mm - 1430mm,1.00,M01348,VAC-Fab - Pipes,False
+3,M01263,Bulkhead PVC Fitting 50mm,8.00,M01660,VAC-Fab - D - Piping Box,False
+3,M01264,Guillotine Valve PVC 50mm,5.00,M01660,VAC-Fab - D - Piping Box,False
+3,M01291,Coude PP 50mm 90° F/F,10.00,M01660,VAC-Fab - D - Piping Box,False
+3,M01319,Coude PP 50mm 45° F/F,1.00,M01660,VAC-Fab - D - Piping Box,False
+3,M01293,Té PP 50mm F/F/F,4.00,M01660,VAC-Fab - D - Piping Box,False
+3,M01320,Réducteur PP 90-50mm,4.00,M01660,VAC-Fab - D - Piping Box,False
+3,M01316,Coude PP 90mm 90° M/F,2.00,M01660,VAC-Fab - D - Piping Box,False
+3,M01318,Té PP 90mm M/F/F,3.00,M01660,VAC-Fab - D - Piping Box,False
+1,M01345,VAC-Fab - A - Vacuum Pump & Connectors,1.00,M01421,Vacuum Table - Fab,True
+2,M01262,"Hurricane Vacuum Pump, from Black Box Vacuum",1.00,M01345,VAC-Fab - A - Vacuum Pump & Connectors,False
+2,M01356,VAC-Fab - PVC Filter Kits,1.00,M01345,VAC-Fab - A - Vacuum Pump & Connectors,False
+2,M01357,VAC - Power Supply Cable Ready-to-use,1.00,M01345,VAC-Fab - A - Vacuum Pump & Connectors,True
+3,M01277,2P Pole Isolator Switch - 32A,1.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+3,M01275,"Power Socket Cable Mount, Male, IEC 60309, 2P+E, 32A, 230 V",1.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+3,M01278,Cable 3x6.0mm² (2P+1) for 32A [m],3.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+3,M01276,"Cable Gland M25 + Locknut, D11-17mm, Black",2.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+2,M01274,"Power Socket Wall Mount, Female, 2P+E, 32A, 230 V",1.00,M01345,VAC-Fab - A - Vacuum Pump & Connectors,False
+2,M01350,VAC-Fab - Socket Wall Mount Bag,1.00,M01345,VAC-Fab - A - Vacuum Pump & Connectors,True
+3,M01340,Concrete Anchor 6x50mm,4.00,M01350,VAC-Fab - Socket Wall Mount Bag,False
+3,M01341,"Wood screw 4,5x50mm",4.00,M01350,VAC-Fab - Socket Wall Mount Bag,False
+3,M00987,Cable Tie 450mm x 5mm,2.00,M01350,VAC-Fab - Socket Wall Mount Bag,False
+2,M01346,VAC-Fab - B - Plenum Boards,1.00,M01344,VAC-Fab - BCDE - Full Setup Pallet,True
+2,M01347,VAC-Fab - C - Spoilerboards,1.00,M01344,VAC-Fab - BCDE - Full Setup Pallet,True
+3,M01287,VAC-Fab - MDF Spoilerboard Front,1.00,M01347,VAC-Fab - C - Spoilerboards,False
+3,M01333,VAC-Fab - MDF Spoilerboard Mid 735x1330mm,2.00,M01347,VAC-Fab - C - Spoilerboards,False
+3,M01334,VAC-Fab - MDF Spoilerboard Back 561x1330mm,1.00,M01347,VAC-Fab - C - Spoilerboards,False
+2,M01349,VAC-Fab - E - Hardware Box,1.00,M01344,VAC-Fab - BCDE - Full Setup Pallet,True
+2,M01660,VAC-Fab - D - Piping Box,1.00,M01344,VAC-Fab - BCDE - Full Setup Pallet,True
