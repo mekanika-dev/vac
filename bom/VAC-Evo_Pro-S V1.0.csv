@@ -1,0 +1,121 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01599,Vacuum Table - Evo / Pro,1.00,,,True
+1,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",1.00,M01599,Vacuum Table - Evo / Pro,True
+2,M01563,VAC-Evo/Pro - A - Pump & Connectors,1.00,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",True
+3,M01261,Storm Vacuum Pump,1.00,M01563,VAC-Evo/Pro - A - Pump & Connectors,False
+3,M01582,VAC-Evo/Pro - PVC Filter Kits,1.00,M01563,VAC-Evo/Pro - A - Pump & Connectors,False
+3,M01404,Canister Filter for Storm Vacuum Pump,1.00,M01563,VAC-Evo/Pro - A - Pump & Connectors,False
+3,M01274,"Power Socket Wall Mount, Female, 2P+E, 32A, 230 V",1.00,M01563,VAC-Evo/Pro - A - Pump & Connectors,False
+3,M01357,VAC - Power Supply Cable Ready-to-use,1.00,M01563,VAC-Evo/Pro - A - Pump & Connectors,True
+4,M01277,2P Pole Isolator Switch - 32A,1.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+4,M01275,"Power Socket Cable Mount, Male, IEC 60309, 2P+E, 32A, 230 V",1.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+4,M01278,Cable 3x6.0mm² (2P+1) for 32A [m],3.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+4,M01276,"Cable Gland M25 + Locknut, D11-17mm, Black",2.00,M01357,VAC - Power Supply Cable Ready-to-use,False
+3,M01350,VAC-Fab - Socket Wall Mount Bag,1.00,M01563,VAC-Evo/Pro - A - Pump & Connectors,True
+4,M01340,Concrete Anchor 6x50mm,4.00,M01350,VAC-Fab - Socket Wall Mount Bag,False
+4,M01341,"Wood screw 4,5x50mm",4.00,M01350,VAC-Fab - Socket Wall Mount Bag,False
+4,M00987,Cable Tie 450mm x 5mm,2.00,M01350,VAC-Fab - Socket Wall Mount Bag,False
+2,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),1.00,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",True
+3,M01291,Coude PP 50mm 90° F/F,5.00,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),False
+3,M01292,Coude PP 50mm 90° F/M,1.00,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),False
+3,M01293,Té PP 50mm F/F/F,3.00,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),False
+3,M01263,Bulkhead PVC Fitting 50mm,4.00,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),False
+3,M01264,Guillotine Valve PVC 50mm,3.00,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),False
+3,M01661,VAC-Evo/Pro - Pipes (Size: S),1.00,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),True
+4,M01386,Pipe PP - diam.50 L3000,2.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+4,M01664,Tuyau PP 50mm - 350mm,1.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+4,M01671,Tuyau PP 50mm - 250mm,4.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+4,M01666,Tuyau PP 50mm - 240mm,1.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+4,M01667,Tuyau PP 50mm - 230mm,1.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+4,M01668,Tuyau PP 50mm - 140mm,3.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+4,M01669,Tuyau PP 50mm - 100mm,2.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+4,M01648,Tuyau PP 50mm - 80mm,4.00,M01661,VAC-Evo/Pro - Pipes (Size: S),False
+2,M01580,VAC-Evo/Pro - C - Hardware Box (Size: S),1.00,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",True
+3,M01570,VAC-Evo/Pro - Bag - Rubber cord,1.00,M01580,VAC-Evo/Pro - C - Hardware Box (Size: S),True
+4,M00513,"Face milling end mill 25mm, shank 8mm",1.00,M01570,VAC-Evo/Pro - Bag - Rubber cord,False
+4,M01325,Neoprene cord 6mm [m],10.00,M01570,VAC-Evo/Pro - Bag - Rubber cord,False
+3,M01572,VAC-Evo/Pro - Bag - Threaded Insert (Size: S),1.00,M01580,VAC-Evo/Pro - C - Hardware Box (Size: S),True
+4,M01273,Threaded Insert Flanged M6,18.00,M01572,VAC-Evo/Pro - Bag - Threaded Insert (Size: S),False
+3,M01567,VAC-Evo/Pro - Bag -  ISO7380 Screw M6x16 (Size: S),1.00,M01580,VAC-Evo/Pro - C - Hardware Box (Size: S),True
+4,M01280,ISO 7380 M6x16 Black Screw,18.00,M01567,VAC-Evo/Pro - Bag -  ISO7380 Screw M6x16 (Size: S),False
+3,M01569,VAC-Evo/Pro - Bag - DIN912 Screw M6x20,1.00,M01580,VAC-Evo/Pro - C - Hardware Box (Size: S),True
+4,M01286,VAC-Evo/Pro-M-L - DIN912 Black Screw Bag - M6x20,20.00,M01569,VAC-Evo/Pro - Bag - DIN912 Screw M6x20,True
+5,M00451,DIN912 M6x20 Black screw,474.00,M01286,VAC-Evo/Pro-M-L - DIN912 Black Screw Bag - M6x20,False
+3,M01571,VAC-Evo/Pro - Bag - Sliding Nut M6,1.00,M01580,VAC-Evo/Pro - C - Hardware Box (Size: S),True
+4,M00556,I-Type Sliding Nut M6,20.00,M01571,VAC-Evo/Pro - Bag - Sliding Nut M6,False
+2,M01288,VAC-Evo/Pro - MDF Spoilerboard (Size: S),2.00,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",False
+2,M01265,VAC-Evo/Pro - Plenum PVC (Size: S),2.00,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",False
+2,M01270,VAC-Evo/Pro - Plenum PVC Logo Board (Size: S&M),1.00,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",False
+2,M01376,"Grip-Lock Mat 1000 x 500 x 2mm, Ready-to-use",1.00,M01557,"VAC-Evo/Pro (Complete Setup, S) [M0 use]",True
+3,M01332,"Black Box Grip-Lock Mat 2mm, 5′ x 10′ (152 x 304 cm)",0.11,M01376,"Grip-Lock Mat 1000 x 500 x 2mm, Ready-to-use",False
+1,M01631,"VAC-Evo/Pro (Basic Setup, S) [M0 use]",1.00,M01599,Vacuum Table - Evo / Pro,True
+2,M01577,VAC-Evo/Pro - B - Piping Box (Size: S),1.00,M01631,"VAC-Evo/Pro (Basic Setup, S) [M0 use]",True
+2,M01580,VAC-Evo/Pro - C - Hardware Box (Size: S),1.00,M01631,"VAC-Evo/Pro (Basic Setup, S) [M0 use]",True
+2,M01288,VAC-Evo/Pro - MDF Spoilerboard (Size: S),2.00,M01631,"VAC-Evo/Pro (Basic Setup, S) [M0 use]",False
+2,M01265,VAC-Evo/Pro - Plenum PVC (Size: S),2.00,M01631,"VAC-Evo/Pro (Basic Setup, S) [M0 use]",False
+2,M01270,VAC-Evo/Pro - Plenum PVC Logo Board (Size: S&M),1.00,M01631,"VAC-Evo/Pro (Basic Setup, S) [M0 use]",False
+1,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",1.00,M01599,Vacuum Table - Evo / Pro,True
+2,M01563,VAC-Evo/Pro - A - Pump & Connectors,1.00,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",True
+2,M01578,VAC-Evo/Pro - B - Piping (Size: M),1.00,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",True
+3,M01291,Coude PP 50mm 90° F/F,7.00,M01578,VAC-Evo/Pro - B - Piping (Size: M),False
+3,M01292,Coude PP 50mm 90° F/M,1.00,M01578,VAC-Evo/Pro - B - Piping (Size: M),False
+3,M01293,Té PP 50mm F/F/F,5.00,M01578,VAC-Evo/Pro - B - Piping (Size: M),False
+3,M01263,Bulkhead PVC Fitting 50mm,6.00,M01578,VAC-Evo/Pro - B - Piping (Size: M),False
+3,M01264,Guillotine Valve PVC 50mm,4.00,M01578,VAC-Evo/Pro - B - Piping (Size: M),False
+3,M01662,VAC-Evo/Pro - Pipes (Size: M),1.00,M01578,VAC-Evo/Pro - B - Piping (Size: M),True
+4,M01386,Pipe PP - diam.50 L3000,2.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+4,M01664,Tuyau PP 50mm - 350mm,1.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+4,M01670,Tuyau PP 50mm - 270mm,2.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+4,M01671,Tuyau PP 50mm - 250mm,6.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+4,M01667,Tuyau PP 50mm - 230mm,2.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+4,M01668,Tuyau PP 50mm - 140mm,4.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+4,M01669,Tuyau PP 50mm - 100mm,2.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+4,M01648,Tuyau PP 50mm - 80mm,6.00,M01662,VAC-Evo/Pro - Pipes (Size: M),False
+2,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),1.00,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",True
+3,M01570,VAC-Evo/Pro - Bag - Rubber cord,1.00,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),True
+3,M01573,VAC-Evo/Pro - Bag - Threaded Insert (Size: M&L),1.00,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),True
+4,M01273,Threaded Insert Flanged M6,27.00,M01573,VAC-Evo/Pro - Bag - Threaded Insert (Size: M&L),False
+3,M01568,VAC-Evo/Pro - Bag -  ISO7380 Screw M6x16 (Size: M&L),1.00,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),True
+4,M01282,VAC-Evo/Pro-M-L - ISO7380 BHC Black Screw Bag - M6x16,27.00,M01568,VAC-Evo/Pro - Bag -  ISO7380 Screw M6x16 (Size: M&L),True
+5,M01280,ISO 7380 M6x16 Black Screw,831.00,M01282,VAC-Evo/Pro-M-L - ISO7380 BHC Black Screw Bag - M6x16,False
+3,M01569,VAC-Evo/Pro - Bag - DIN912 Screw M6x20,1.00,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),True
+3,M01571,VAC-Evo/Pro - Bag - Sliding Nut M6,1.00,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),True
+2,M01289,VAC-Evo/Pro - MDF Spoilerboard (Size: M),3.00,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",False
+2,M01266,VAC-Evo/Pro - Plenum PVC (Size: M),3.00,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",False
+2,M01270,VAC-Evo/Pro - Plenum PVC Logo Board (Size: S&M),1.00,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",False
+2,M01376,"Grip-Lock Mat 1000 x 500 x 2mm, Ready-to-use",1.00,M01558,"VAC-Evo/Pro (Complete Setup, M) [M0 use]",True
+1,M01632,"VAC-Evo/Pro (Basic Setup, M) [M0 use]",1.00,M01599,Vacuum Table - Evo / Pro,True
+2,M01578,VAC-Evo/Pro - B - Piping (Size: M),1.00,M01632,"VAC-Evo/Pro (Basic Setup, M) [M0 use]",True
+2,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),1.00,M01632,"VAC-Evo/Pro (Basic Setup, M) [M0 use]",True
+2,M01289,VAC-Evo/Pro - MDF Spoilerboard (Size: M),3.00,M01632,"VAC-Evo/Pro (Basic Setup, M) [M0 use]",False
+2,M01266,VAC-Evo/Pro - Plenum PVC (Size: M),3.00,M01632,"VAC-Evo/Pro (Basic Setup, M) [M0 use]",False
+2,M01270,VAC-Evo/Pro - Plenum PVC Logo Board (Size: S&M),1.00,M01632,"VAC-Evo/Pro (Basic Setup, M) [M0 use]",False
+1,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",1.00,M01599,Vacuum Table - Evo / Pro,True
+2,M01563,VAC-Evo/Pro - A - Pump & Connectors,1.00,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",True
+2,M01579,VAC-Evo/Pro - B - Piping (Size: L),1.00,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",True
+3,M01291,Coude PP 50mm 90° F/F,7.00,M01579,VAC-Evo/Pro - B - Piping (Size: L),False
+3,M01292,Coude PP 50mm 90° F/M,1.00,M01579,VAC-Evo/Pro - B - Piping (Size: L),False
+3,M01293,Té PP 50mm F/F/F,5.00,M01579,VAC-Evo/Pro - B - Piping (Size: L),False
+3,M01263,Bulkhead PVC Fitting 50mm,6.00,M01579,VAC-Evo/Pro - B - Piping (Size: L),False
+3,M01264,Guillotine Valve PVC 50mm,4.00,M01579,VAC-Evo/Pro - B - Piping (Size: L),False
+3,M01663,VAC-Evo/Pro - Pipes (Size: L),1.00,M01579,VAC-Evo/Pro - B - Piping (Size: L),True
+4,M01386,Pipe PP - diam.50 L3000,2.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01672,Tuyau PP 50mm - 430mm,2.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01664,Tuyau PP 50mm - 350mm,1.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01670,Tuyau PP 50mm - 270mm,2.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01665,Tuyau PP 50mm - 250mm,6.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01666,Tuyau PP 50mm - 240mm,3.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01673,Tuyau PP 50mm - 200mm,2.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01668,Tuyau PP 50mm - 140mm,1.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+4,M01648,Tuyau PP 50mm - 80mm,6.00,M01663,VAC-Evo/Pro - Pipes (Size: L),False
+2,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),1.00,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",True
+2,M01290,VAC-Evo/Pro - MDF Spoilerboard (Size: L),3.00,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",False
+2,M01267,VAC-Evo/Pro - Plenum PVC (Size: L),3.00,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",False
+2,M01271,VAC-Evo/Pro - Plenum PVC Logo Board (Size: L),1.00,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",False
+2,M01376,"Grip-Lock Mat 1000 x 500 x 2mm, Ready-to-use",1.00,M01559,"VAC-Evo/Pro (Complete Setup, L) [M0 use]",True
+1,M01633,"VAC-Evo/Pro (Basic Setup, L) [M0 use]",1.00,M01599,Vacuum Table - Evo / Pro,True
+2,M01579,VAC-Evo/Pro - B - Piping (Size: L),1.00,M01633,"VAC-Evo/Pro (Basic Setup, L) [M0 use]",True
+2,M01581,VAC-Evo/Pro - C - Hardware Box (Size: M&L),1.00,M01633,"VAC-Evo/Pro (Basic Setup, L) [M0 use]",True
+2,M01290,VAC-Evo/Pro - MDF Spoilerboard (Size: L),3.00,M01633,"VAC-Evo/Pro (Basic Setup, L) [M0 use]",False
+2,M01267,VAC-Evo/Pro - Plenum PVC (Size: L),3.00,M01633,"VAC-Evo/Pro (Basic Setup, L) [M0 use]",False
+2,M01271,VAC-Evo/Pro - Plenum PVC Logo Board (Size: L),1.00,M01633,"VAC-Evo/Pro (Basic Setup, L) [M0 use]",False
