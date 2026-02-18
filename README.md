@@ -15,6 +15,13 @@ The Bill of Materials is available as a CSV file, which is dynamically updated f
 
 All 3D assembly files are made in STEP format and compatible with many CAD software. Please note that you will need Git LFS installed to clone or pull the repo correctly, since these files exceed 100MB.
 
+The design files can also be viewed in web browsers using these links:
+
+- [Vacuum Table Evo/Pro S](https://a360.co/47x9dcH)
+- [Vacuum Table Evo/Pro M](https://a360.co/482E9l5)
+- [Vacuum Table Evo/Pro L](https://a360.co/4mLKfec)
+- [Vacuum Table Fab](https://a360.co/4mHzWrg)
+
 ## Assembly Guide
 
 The assembly guide is available on our [support website](https://support.mekanika.io/products/vacuum-table). If you have feedback or want to raise an issue about a specific assembly step, you can use the feedback buttons available on each step's page.
