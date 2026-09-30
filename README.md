@@ -17,10 +17,10 @@ All 3D assembly files are made in STEP format and compatible with many CAD softw
 
 The design files can also be viewed in web browsers using these links:
 
-- [Vacuum Table Evo/Pro S](https://a360.co/4ln6CVK)
-- [Vacuum Table Evo/Pro M](https://a360.co/4mClTmL)
-- [Vacuum Table Evo/Pro L](https://a360.co/4lkQq7p)
-- [Vacuum Table Fab](https://a360.co/4mHzWrg)
+- [Vacuum Table Evo/Pro S](https://a360.co/4eoet3X)
+- [Vacuum Table Evo/Pro M](https://a360.co/3SKIqnA)
+- [Vacuum Table Evo/Pro L](https://a360.co/3SLGVpb)
+- [Vacuum Table Fab](https://a360.co/4gpXYae)
 
 ## Assembly Guide
 
